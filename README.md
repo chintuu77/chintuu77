@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **DevOps & AWS**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/vivekmrudhuvan/
 <p align="left">
 </p>
 
